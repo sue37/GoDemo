@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/CPyEngineIntf.h
+
+../include/Test.hpp
+
+/mnt/c/WorkSpace/Ubuntu/golang/src/GoDemo/CgoWithCmake/CPyEngine/src/CPyEngineIntf.cpp
+cstddef
+-
+CPyEngineIntf.h
+/mnt/c/WorkSpace/Ubuntu/golang/src/GoDemo/CgoWithCmake/CPyEngine/src/CPyEngineIntf.h
+Test.hpp
+/mnt/c/WorkSpace/Ubuntu/golang/src/GoDemo/CgoWithCmake/CPyEngine/src/Test.hpp
+
+/mnt/c/WorkSpace/Ubuntu/golang/src/GoDemo/CgoWithCmake/CPyEngine/src/Test.cpp
+iostream
+-
+Test.hpp
+/mnt/c/WorkSpace/Ubuntu/golang/src/GoDemo/CgoWithCmake/CPyEngine/src/Test.hpp
+

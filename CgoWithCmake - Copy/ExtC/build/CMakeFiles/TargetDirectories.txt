@@ -1,0 +1,3 @@
+C:/WorkSpace/Ubuntu/golang/src/GoDemo/CgoWithCmake/ExtC/build/CMakeFiles/ExtC_library.dir
+C:/WorkSpace/Ubuntu/golang/src/GoDemo/CgoWithCmake/ExtC/build/CMakeFiles/ALL_BUILD.dir
+C:/WorkSpace/Ubuntu/golang/src/GoDemo/CgoWithCmake/ExtC/build/CMakeFiles/ZERO_CHECK.dir

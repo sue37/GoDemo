@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\extern",
+    "\\extern\\pybind11",
+    "\\include",
+    "\\src"
+  ],
+  "SelectedNode": "\\CMakeLists.txt",
+  "PreviewInSolutionExplorer": false
+}

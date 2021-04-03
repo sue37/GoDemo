@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCPyEngine_library.a  CMakeFiles/CPyEngine_library.dir/src/CPyEngineIntf.cpp.o CMakeFiles/CPyEngine_library.dir/src/Test.cpp.o
+/usr/bin/ranlib libCPyEngine_library.a

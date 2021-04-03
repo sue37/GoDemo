@@ -1,0 +1,5 @@
+/mnt/c/WorkSpace/Ubuntu/golang/src/GoDemo/CgoWithCmake/CPyEngine/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/WorkSpace/Ubuntu/golang/src/GoDemo/CgoWithCmake/CPyEngine/build/CMakeFiles/edit_cache.dir
+/mnt/c/WorkSpace/Ubuntu/golang/src/GoDemo/CgoWithCmake/CPyEngine/build/CMakeFiles/CPyEngine_library.dir
+/mnt/c/WorkSpace/Ubuntu/golang/src/GoDemo/CgoWithCmake/CPyEngine/build/extern/pybind11/CMakeFiles/rebuild_cache.dir
+/mnt/c/WorkSpace/Ubuntu/golang/src/GoDemo/CgoWithCmake/CPyEngine/build/extern/pybind11/CMakeFiles/edit_cache.dir

@@ -1,0 +1,10 @@
+^C:\WORKSPACE\UBUNTU\GOLANG\SRC\GODEMO\CGOWITHCMAKE\EXTC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/WorkSpace/Ubuntu/golang/src/GoDemo/CgoWithCmake/ExtC -BC:/WorkSpace/Ubuntu/golang/src/GoDemo/CgoWithCmake/ExtC/build --check-stamp-file C:/WorkSpace/Ubuntu/golang/src/GoDemo/CgoWithCmake/ExtC/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

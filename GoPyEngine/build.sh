@@ -1,0 +1,31 @@
+#!/bin/bash
+
+GOARCH="amd64"
+#GOBIN="/home/{username}/Go/bin"
+#GOCACHE="/home/{username}/.cache/go-build"
+#GOEXE=""
+#GOFLAGS=""
+GOHOSTARCH="amd64"
+GOHOSTOS="linux"
+GOOS="linux"
+#GOPATH="/home/{username}/Go"
+GOPROXY=""
+GORACE=""
+GOROOT="/usr/local/go"
+GOTMPDIR=""
+GOTOOLDIR="/usr/local/go/pkg/tool/linux_amd64"
+GCCGO="gccgo"
+CC="gcc"
+CXX="g++"
+CGO_ENABLED="1"
+#GOMOD=""
+CGO_CFLAGS="-I ~/.pyenv/versions/3.9-dev/include/python3.9/"
+#CGO_CPPFLAGS=""
+#CGO_CXXFLAGS="-g -O2"
+#CGO_FFLAGS="-g -O2"
+#CGO_LDFLAGS="-g -O2"
+CGO_LDFLAGS+=-lstdc++
+PKG_CONFIG="pkg-config"
+GOGCCFLAGS="-fPIC -m64 -pthread -static-libstdc++"
+
+go build ./PyEngineTest/main.go
